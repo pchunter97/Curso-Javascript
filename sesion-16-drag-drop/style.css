@@ -1,0 +1,20 @@
+.seccion{
+    background-color: darkslategrey;
+    padding: 1rem;
+}
+
+.parrafo{
+    background-color: #fff;
+    padding: 1rem;
+}
+
+.parrafo.dragging{
+    opacity: 0.3;
+}
+
+img{
+    /* position: absolute; */
+    /* width: 30px; */
+    /* left: -100vw; */
+    text-align: center;
+}
